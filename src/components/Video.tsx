@@ -1,11 +1,9 @@
-import { gql, useQuery } from "@apollo/client";
 import { DefaultUi, Player, Youtube } from "@vime/react";
 import {
   CaretRight,
   DiscordLogo,
   FileArrowDown,
   Lightning,
-  Spinner,
 } from "phosphor-react";
 
 import "@vime/core/themes/default.css";

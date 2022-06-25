@@ -1,5 +1,4 @@
 import { FormEvent, useState } from "react";
-import { gql, useMutation } from "@apollo/client";
 import { useNavigate } from "react-router-dom";
 
 import { Logo } from "../components/Logo";
